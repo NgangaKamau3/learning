@@ -1,4 +1,5 @@
 # C Fundamentals
+
 Working repo for [C Fundamentals](https://shipthatcode.com/courses/c-fundamentals)
 on [shipthatcode.com](https://shipthatcode.com).
 
